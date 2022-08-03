@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>  
+            INTRODUCTION TO WEB DEV.
+        </title>
+        <style>.flag{background-color:rgb(127,225,127);}
+        *p{color:blueviolet}
+        </style>
+        <link rel="stylesheet" href="style.css"
+    </head>
+    <Body class="flag">
+<p style="color:green">I`m new here<br></p><br>
+<h3>NESTING:<br>
+This means bits of code going inside other bits of code in an orderly manner.
+</h3>
+</Body>
+</html>
